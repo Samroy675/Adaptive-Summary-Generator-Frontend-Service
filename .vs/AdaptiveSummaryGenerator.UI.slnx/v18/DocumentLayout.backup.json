@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\pages\\aboutmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\pages\\aboutmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\layout\\appfooter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\layout\\appfooter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\models\\summarymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\models\\summarymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\services\\isummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\services\\isummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\services\\dummysummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\services\\dummysummaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\pages\\thoughtprocesspanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\pages\\thoughtprocesspanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\pages\\summarymetadata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\pages\\summarymetadata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\components\\pages\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\components\\pages\\appstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|c:\\users\\samro\\onedrive\\documents\\adaptive summary generator\\frontend service\\adaptivesummarygenerator.ui\\adaptivesummarygenerator.ui\\wwwroot\\css\\asg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71B53B3A-A2E3-FB12-5468-F6F4DDE90B50}|AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI.csproj|solutionrelative:adaptivesummarygenerator.ui\\wwwroot\\css\\asg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\App.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\App.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\App.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:06.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutModal.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\AboutModal.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\AboutModal.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\AboutModal.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\AboutModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:57.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Routes.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:04.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SummaryModels.cs",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Models\\SummaryModels.cs",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Models\\SummaryModels.cs",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Models\\SummaryModels.cs",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Models\\SummaryModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:57:22.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppFooter.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\AppFooter.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\AppFooter.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\AppFooter.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\AppFooter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:59:07.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\_Imports.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:55:02.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavBar.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\NavBar.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\NavBar.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\NavBar.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\NavBar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:59:12.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:59:10.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Program.cs",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Program.cs",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:55:27.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Services\\ISummaryService.cs",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Services\\ISummaryService.cs",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Services\\ISummaryService.cs",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Services\\ISummaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:57:56.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DummySummaryService.cs",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Services\\DummySummaryService.cs",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Services\\DummySummaryService.cs",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Services\\DummySummaryService.cs",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Services\\DummySummaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:57:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThoughtProcessPanel.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\ThoughtProcessPanel.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\ThoughtProcessPanel.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\ThoughtProcessPanel.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\ThoughtProcessPanel.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SummaryMetadata.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\SummaryMetadata.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\SummaryMetadata.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\SummaryMetadata.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\SummaryMetadata.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:23.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-02T05:58:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppState.cs",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\AppState.cs",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\AppState.cs",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\Components\\Pages\\AppState.cs",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\Components\\Pages\\AppState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T05:58:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "asg.css",
+              "DocumentMoniker": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\wwwroot\\css\\asg.css",
+              "RelativeDocumentMoniker": "AdaptiveSummaryGenerator.UI\\wwwroot\\css\\asg.css",
+              "ToolTip": "C:\\Users\\samro\\OneDrive\\Documents\\Adaptive Summary Generator\\Frontend Service\\AdaptiveSummaryGenerator.UI\\AdaptiveSummaryGenerator.UI\\wwwroot\\css\\asg.css",
+              "RelativeToolTip": "AdaptiveSummaryGenerator.UI\\wwwroot\\css\\asg.css",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-02T05:59:48.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

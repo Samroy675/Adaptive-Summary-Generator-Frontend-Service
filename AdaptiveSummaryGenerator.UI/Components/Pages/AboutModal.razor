@@ -1,0 +1,44 @@
+@if (IsVisible)
+{
+    <div class="modal-overlay" @onclick="OnClose">
+        <div class="modal-box" @onclick:stopPropagation="true">
+            <div class="modal-header">
+                <span class="modal-title">
+                    <i class="bi bi-info-circle"></i> About This Application
+                </span>
+                <button class="btn-close-modal" @onclick="OnClose">
+                    <i class="bi bi-x-lg"></i>
+                </button>
+            </div>
+
+            <div class="modal-body">
+                <p>
+                    <strong>Adaptive Summary Generator (ASG)</strong> is an AI-powered summarization
+                    engine built as a GenAI assignment project.
+                </p>
+                <p>
+                    It uses <strong>Semantic Kernel</strong> for GenAI orchestration with intelligent
+                    plugin-based function calling. The backend analyzes your input semantically and
+                    routes to the most appropriate summarization strategy.
+                </p>
+                <p><strong>Key Capabilities</strong></p>
+                <div class="modal-badges">
+                    <span class="modal-badge"><i class="bi bi-cpu"></i> Auto Content Analysis</span>
+                    <span class="modal-badge"><i class="bi bi-sliders"></i> Adaptive Summarization</span>
+                    <span class="modal-badge"><i class="bi bi-plugin"></i> SK Function Calling</span>
+                    <span class="modal-badge"><i class="bi bi-cloud"></i> Azure OpenAI GPT-4</span>
+                </div>
+                <p>
+                    Built with <strong>Blazor Web App</strong> + <strong>.NET 8</strong>
+                    + <strong>Semantic Kernel</strong>. Designed for controlled,
+                    user-preference driven summarization workflows.
+                </p>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter] public bool IsVisible { get; set; }
+    [Parameter] public EventCallback OnClose { get; set; }
+}

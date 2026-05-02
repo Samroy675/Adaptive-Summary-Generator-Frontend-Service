@@ -1,0 +1,17 @@
+@inherits LayoutComponentBase
+
+<NavBar OnAboutClick="ShowAbout" />
+
+<main>
+    @Body
+</main>
+
+<AppFooter />
+
+<AboutModal IsVisible="_showAbout" OnClose="CloseAbout" />
+
+@code {
+    private bool _showAbout;
+    private void ShowAbout() => _showAbout = true;
+    private void CloseAbout() => _showAbout = false;
+}
