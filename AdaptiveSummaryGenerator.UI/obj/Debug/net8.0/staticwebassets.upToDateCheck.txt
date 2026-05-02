@@ -1,3 +1,0 @@
-wwwroot\bootstrap\bootstrap.min.css
-wwwroot\bootstrap\bootstrap.min.css.map
-wwwroot\css\asg.css
